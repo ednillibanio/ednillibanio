@@ -62,6 +62,15 @@
 🚀 _Let's automate everything!_ 😃
 
 
+<!-- Things you may want to add to your profile README include:
+
+    An introduction: Write a brief introduction of yourself and your professional background.
+    Skills: List your technical skills, including any programming languages, frameworks, and tools you are proficient in.
+    Professional experience: Describe where you've worked before and what sort of professional skills you've built. These can even be non-technical skills, such as communication and empathy.
+    Some of your best projects: Describe some projects you're proud of. You'll also pin these repositories later, but your README gives you a chance to provide more commentary.
+    Achievements or awards: Show off any of your achievements, including certifications or awards you've received for your work.
+-->
+
 <!--
 **ednillibanio/ednillibanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
