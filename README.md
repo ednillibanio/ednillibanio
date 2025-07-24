@@ -1,43 +1,39 @@
-# Olá! 👋 Eu sou Ednil Libanio  
+# Hi! 👋 I’m Ednil Libanio  
 **🚀 SysAdmin | SRE | DevOps | Security Enthusiast**
-
-<!--
----
-
-### 💡 Sobre mim
-🔹 Trabalho com **[tecnologia específica que usa]**  
-🔹 Atualmente, estou estudando **[tecnologia, ferramenta ou conceito atual]**  
-🔹 Gosto de explorar **[área de interesse, como automação, cloud, segurança, etc.]**  
-🔹 Sempre buscando melhorar e compartilhar conhecimento!  
-
--->
 
 <br>
 
-## 🛠️ Tecnologias & Ferramentas / Technologies & Tools  
+### 💡 About Me
 
+<br>
+
+🔹 Experienced IT professional with 25+ years working across infrastructure, networking, virtualization, and automation.  
+🔹 I specialize in building secure, scalable, and documented environments using **Linux**, **Ansible**, **Terraform**, **Kubernetes**, and **VMware**.  
+🔹 Currently focused on Infrastructure as Code (IaC), observability, and security hardening for on-prem and hybrid environments.  
+🔹 Passionate about automation, open-source tools, and knowledge sharing.  
+🔹 Active contributor to internal documentation using tools like **DokuWiki**, always aiming for clarity, consistency, and best practices.  
+🔹 Enjoy mentoring junior IT staff and creating structured learning environments.  
+🔹 Always learning — currently exploring **Ansible Dev Tools**, **Packer**, and **Vault** for secrets and PKI management.
+
+> 🏆 **Highlight:** I build infrastructure templates and scripts to support internal teams with secure, repeatable deployments across staging and production environments.
+
+<br>
+
+## 🛠️ Technologies & Tools  
 <br>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-89A1C8?style=for-the-badge&logo=podman&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)  
-
-<!--
----
-
-### 📌 Projetos & Contribuições  
-📂 **[Projeto 1](https://github.com/seu-usuario/projeto1)** – Descrição breve sobre o projeto.  
-📂 **[Projeto 2](https://github.com/seu-usuario/projeto2)** – Mais um projeto interessante.  
-
-> 🏆 **Destaque:** Colaboro com [projeto open-source X](https://github.com/projetoX)  
-
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
 <br>
 
@@ -45,43 +41,11 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednillibanio&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ednillibanio&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ednillibanio&show_icons=true&theme=default&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ednillibanio&layout=compact&theme=default)
 
----
 
-### 📫 Como me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
-[![Site](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seusite.com)  
-
--->
-
----
+<br>
 
 🚀 _Let's automate everything!_ 😃
 
-
-<!-- Things you may want to add to your profile README include:
-
-    An introduction: Write a brief introduction of yourself and your professional background.
-    Skills: List your technical skills, including any programming languages, frameworks, and tools you are proficient in.
-    Professional experience: Describe where you've worked before and what sort of professional skills you've built. These can even be non-technical skills, such as communication and empathy.
-    Some of your best projects: Describe some projects you're proud of. You'll also pin these repositories later, but your README gives you a chance to provide more commentary.
-    Achievements or awards: Show off any of your achievements, including certifications or awards you've received for your work.
--->
-
-<!--
-**ednillibanio/ednillibanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
